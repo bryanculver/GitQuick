@@ -1,6 +1,6 @@
-GitQuick - Version 1.1
+GitQuick - Version 1.2
 Fast Committing via Quicksilver
-Copyright (C) 2009-2010,  Bryan Culver(http://bryanculver.com), All rights reserved.
+Copyright (C) 2009-2012,  Bryan Culver(http://bryanculver.com), All rights reserved.
 
   This program is free software: you can redistribute it and/or modify
   it under the terms of the GNU General Public License as published by
@@ -19,6 +19,7 @@ Latest version can be obtained from:
 http://bryanculver.com/gitquick/
 
 HISTORY:
+08/18/12	- Added -u paramter to add, new command aucp (see blog)
 04/22/09	- Added Snow Leopard Support, Double & Single Quote Support, Dialogs
 03/23/09	- Initial Release
 
